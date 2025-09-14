@@ -94,11 +94,11 @@ https://github.com/user-attachments/assets/d1a4d26c-e532-4dd6-a69c-0840b0fbf542
 
 ### Results
 
-STG Results
+## STG Results
 
 ![STG](img/stg_results.png)
 
-PSA Results
+## PSA Results
 
 ![PSA](img/psa_results.png)
 
