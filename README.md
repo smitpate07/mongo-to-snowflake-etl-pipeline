@@ -22,7 +22,12 @@ This project implements a **Python-based ETL pipeline** to move data from **Mong
 
 ![Pipeline Flow](img/high_level.png)
 
-![Demo]
+
+## Demo: 
+
+https://github.com/user-attachments/assets/d1a4d26c-e532-4dd6-a69c-0840b0fbf542
+
+
 ---
 
 ## 🏗️ Data Example  
