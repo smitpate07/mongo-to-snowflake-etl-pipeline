@@ -15,7 +15,7 @@ The challenges are:
 This project implements a **Python-based ETL pipeline** to move data from **MongoDB** to **Snowflake** in a reliable and structured way.  
 
 **Pipeline Workflow:**  
-1. Extract documents from MongoDB  
+1. Extract documents from MongoDB.
 2. Load raw JSON into a **Snowflake staging table**  
 3. Validate row counts between MongoDB and Snowflake staging. 
 4. If counts match, transform and load the data into a ** Persistent Staging Area** table. Below is high level overview.
