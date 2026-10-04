@@ -71,15 +71,15 @@ https://github.com/user-attachments/assets/d1a4d26c-e532-4dd6-a69c-0840b0fbf542
 
 ### The pipeline will:
 
-✅ Connect to MongoDB
+✅ Connect to MongoDB.
 
-✅ Extract documents
+✅ Extract documents.
 
-✅ Load raw data into Snowflake staging
+✅ Load raw data into Snowflake staging.
 
-✅ Validate row counts
+✅ Validate row counts.
 
-✅ If counts match → transform & load into PSA schema
+✅ If counts match → transform & load into PSA schema.
 
 
 ### Features
