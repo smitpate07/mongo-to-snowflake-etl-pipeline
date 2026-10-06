@@ -84,13 +84,13 @@ https://github.com/user-attachments/assets/d1a4d26c-e532-4dd6-a69c-0840b0fbf542
 
 ### Features
 
-✅ Modular Python design (easy to extend & maintain)
+✅ Modular Python design (easy to extend & maintain).
 
-✅ Secrets managed via .env (secure & configurable)
+✅ Secrets managed via .env (secure & configurable).
 
-✅ Data validation with row count check
+✅ Data validation with row count check.
 
-✅ Automatic flattening of nested arrays into structured rows
+✅ Automatic flattening of nested arrays into structured rows.
 
 ### Results
 
